@@ -1,0 +1,28 @@
+h1 {
+    color: pink;
+}
+
+* {
+ 
+background-color:white; 
+border: solid}
+
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex: wrap;
+    justify-content: space-evenly;
+}
+
+.foot{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #ff0000;
+}
